@@ -1,0 +1,29 @@
+_repo: Stello_9655
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vigny, Alfred de
+    aliases:
+    - Vigny, Alfred Victor, comte de
+    - De Vigny, Alfred
+    birthdate: 1797
+    deathdate: 1863
+    gutenberg_agent_id: '1343'
+    url: http://www.gutenberg.org/2009/agents/1343
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Vigny
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9655'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Stello
+url: http://www.gutenberg.org/ebooks/9655
